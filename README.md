@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution Repo](https://github.com/roninlp/rating-component)
+- Live Site URL: [solution](https://roninlp.github.io/rating-component/)
 
 ## My process
 
